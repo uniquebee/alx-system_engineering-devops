@@ -1,1 +1,2 @@
-My shell scripting project
+#!/bin/bash
+bash script
